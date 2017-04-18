@@ -1,4 +1,4 @@
 export default {
-	basePath: 'https://www.skyvow.cn/api', 
-	fileBasePath: 'https://www.skyvow.cn/', 
+	basePath: 'https://www.cloud99.xyz/api', 
+	fileBasePath: 'https://www.cloud99.xyz/', 
 }
